@@ -19,17 +19,17 @@ import React from "react";
 // }
 
 function Card(props){
-    // const navigate = useNavigate();
-    // const goToProject = (event) => { 
-    //     navigate("/project");
-    // };
+    const navigate = useNavigate();
+    const goToProject = (event) => { 
+        navigate("/project");
+    };
     //const impath= require(props.image);
     return ( 
         <div className="card" style={{width: 18 + 'rem'}} id={props.d.key}>
             <img className="card-img-top" src="" alt={props.d.title}/>
             <div className="card-body">
                 <h5 className="card-title">{props.d.title}</h5>
-                <a href="/project" className="btn btn-primary">Go Project</a>
+                <a href="" className="btn btn-primary" onClick={goToProject}>Go Project</a>
             </div>
         </div>
     );
