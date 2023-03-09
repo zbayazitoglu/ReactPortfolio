@@ -1,5 +1,5 @@
 import React from "react";
-// import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 // class Card extends React.Component(props) {
 //     state = {
 //         impath: this.props.d.image
