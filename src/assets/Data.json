@@ -1,0 +1,60 @@
+[{
+    "key": 1,
+    "title": "EngineeringTeam",
+    "image": "/Users/zeynep/bootcamp/ReactPortfolio/src/assets/image/Engneer.png",
+    "description": "The application is a Engineering team html page generator so that user can quickly create a html for a new team with answering questions using prompt. ",
+    "links" : {
+        "github": "https://github.com/zbayazitoglu/EngineeringTeam",
+        "page" : ""
+    }
+},
+{
+    "key": 2,
+    "title": "Weather",
+    "image": "/Users/zeynep/bootcamp/ReactPortfolio/src/assets/image/Weather.png",
+    "description": "Application functionalyties:When a user searches for a city they are presented with current and future conditions for that city and that city is added to the search history,When a user view future weather conditions for that city they are presented with a 5-day forecast.",
+    "links" : {
+        "github": "https://github.com/zbayazitoglu/Weather",
+        "page" : "https://zbayazitoglu.github.io/Weather/"
+    }
+},
+{
+    "key": 3,
+    "title": "Planner",
+    "image": "/Users/zeynep/bootcamp/ReactPortfolio/src/assets/image/Planner.png",
+    "description": "This is a simple calendar application that allows a user to save events for each hour of the day by modifying timeblock.",
+    "links" : {
+        "github": "https://github.com/zbayazitoglu/Planner",
+        "page" : "bayazitoglu.github.io/Planner/"
+    }
+},
+{
+    "key": 4,
+    "title": "Code Quiz",
+    "image": "/Users/zeynep/bootcamp/ReactPortfolio/src/assets/image/CodeQuiz.png",
+    "description": "This project to take a timed quiz and stores high scores. SO THAT user can gauge the progress compared to the peers.",
+    "links" : {
+        "github": "https://github.com/zbayazitoglu/CodingQuiz",
+        "page" : "https://zbayazitoglu.github.io/CodingQuiz/"
+    }
+},
+{
+    "key": 5,
+    "title": "Password Generator",
+    "image": "/Users/zeynep/bootcamp/ReactPortfolio/src/assets/image/PaasGen.png",
+    "description": "This app is to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code.",
+    "links" : {
+        "github": "https://github.com/zbayazitoglu/PasswordGenerator",
+        "page" : "https://zbayazitoglu.github.io/CPasswordGenerator/"
+    }
+},
+{
+    "key": 6,
+    "title": "Premier League Info app",
+    "image": "/Users/zeynep/bootcamp/ReactPortfolio/src/assets/image/Legue.png",
+    "description": "This app is a portal for finding information about the English premier league.The purpose of this app is to provide a destination for anybody looking for information about the English premier league. The purpose of building this app was a first foray into a group project, where teamwork was essential to the success of the project. The app has 2 API'S which pulls in information that is requested by the user. The app makes use of modals rather than alerts to provide info.",
+    "links" : {
+        "github": "https://github.com/umairshah14/Premier-League-Info",
+        "page" : "https://umairshah14.github.io/Premier-League-Info/"
+    }
+}]
