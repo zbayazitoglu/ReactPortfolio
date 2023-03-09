@@ -29,7 +29,7 @@ function Card(props){
             <img className="card-img-top" src="" alt={props.d.title}/>
             <div className="card-body">
                 <h5 className="card-title">{props.d.title}</h5>
-                <a href="" className="btn btn-primary" onClick={goToProject}>Go Project</a>
+                <button className="btn btn-primary" onClick={goToProject}>Go Project</button>
             </div>
         </div>
     );
